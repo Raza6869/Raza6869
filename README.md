@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Iae%2C+Familia!👽)](https://git.io/typing-svg)
@@ -7,9 +7,11 @@
   
 </div>
 
+- 🧑‍💼 Front-end developer and Digital illutrator
 - 🦗 Just a lil' locust :)
 - 📚 Studying now <strong>Javascript</strong>.
-
+- 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> <br>
+  and <strong>diverses</strong> projects with with quality and kindness. 
 
 ### SKILLS
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
