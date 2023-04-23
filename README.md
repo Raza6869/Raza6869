@@ -11,7 +11,7 @@
 - 🦗 Just a lil' locust :)
 - 📚 Studying now <strong>React</strong>.
 - 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> <br>
-  and <strong>diverses</strong> projects with with quality and kindness. 
+  and <strong>diverses</strong> projects with high quality and kindness. 
 
 ### SKILLS
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
