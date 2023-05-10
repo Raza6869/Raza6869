@@ -9,7 +9,7 @@
 
 - 🧑‍💼 Front-end developer and Digital illutrator
 - 🦗 Just a lil' locust :)
-- 📚 Studying now <strong>Logic Progamation</strong>.
+- 📚 Studying now <strong>Javascript</strong>.
 - 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> <br>
   and <strong>diverses</strong> projects with high quality and kindness. 
 
