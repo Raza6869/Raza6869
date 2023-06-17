@@ -1,19 +1,13 @@
-<div>
-  <p>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Iae%2C+Familia!👽)](https://git.io/typing-svg)
-  
-  </p>
-  
-</div>
-
-- 🧑‍💼 Front-end developer and Digital illutrator
+### <p align = center>Yo, fellas!🤟<br> <br> My name is Rafael Thumaza, I'm a front-end developer and digital illustrator</p> <br>
+ 
 - 🦗 Just a lil' locust :)
-- 📚 Studying now <strong>Javascript</strong>.
-- 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> <br>
-  and <strong>diverses</strong> projects with high quality and kindness. 
+- 📚 Studying now <strong>Tailwind CSS, React and PHP</strong>.
+- 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> and <br> <strong>diverses projects</strong> with high quality and kindness. 
 
 ### SKILLS
-![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-968220?style=flat&logo=JavaScript&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
