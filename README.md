@@ -1,3 +1,5 @@
+<img src="./public/Raza wallpaper.png" alt="Capa">
+
 ### <p align = center>Yo, fellas!🤟<br> <br> My name is Rafael Thumaza, I'm a front-end developer and digital illustrator</p> <br>
  
 - 🦗 Just a lil' locust :)
