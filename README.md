@@ -3,7 +3,7 @@
 ### <p align = center>Yo, fellas!🤟<br> <br> My name is Rafael Thumaza, I'm a front-end developer and digital illustrator</p> <br>
  
 - 🦗 Just a lil' locust :)
-- 📚 Studying now <strong>PHP, mySQL</strong>.
+- 📚 Studying now <strong>mySQL, fundamentos de API</strong>.
 - 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> and <br> <strong>diverses projects</strong> with high quality and kindness. 
 
 
