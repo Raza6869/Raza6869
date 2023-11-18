@@ -1,17 +1,13 @@
 <img src="./public/Raza wallpaper.png" alt="Capa">
 
-### <p align = center>Yo, fellas!🤟<br> <br> My name is Rafael Thumaza, I'm a front-end developer and digital illustrator</p> <br>
- 
-- 🦗 Just a lil' locust :)
-- 📚 Studying now <strong>mySQL, fundamentos de API</strong>.
-- 🔮 I want to be a Fullstack Developer to do some <strong>games</strong> and <br> <strong>diverses projects</strong> with high quality and kindness. 
-
+### <p align = center>Yo, fellas!🤟<br> <br> My name is Rafael Thumaza, I'm a front-end developer and digital illustrator ready for work.</p> <br>
 
 ## SKILLS
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
